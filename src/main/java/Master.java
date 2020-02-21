@@ -5,5 +5,6 @@ public class Master {
         System.out.println("3");
         System.out.println("4 - locale");
         System.out.println("4 - gh");
+        System.out.println("4 - master");
     }
 }
